@@ -34,7 +34,7 @@
     <style name="LatinKeyboard">
         <item name="autoCorrectionSpacebarLedEnabled">@bool/config_auto_correction_spacebar_led_enabled
         </item>
-        <item name="spacebarTextColor">#FFFFFFFF</item>
+        <item name="spacebarTextColor">#FFC0C0C0</item>
         <item name="spacebarTextShadowColor">#80000000</item>
     </style>
     <style name="KeyboardView">
@@ -47,7 +47,7 @@
         <item name="keyHintLabelRatio">@fraction/key_hint_label_ratio</item>
         <item name="keyUppercaseLetterRatio">@fraction/key_uppercase_letter_ratio</item>
         <item name="keyTextStyle">normal</item>
-        <item name="keyTextColor">@android:color/holo_blue_light</item>
+        <item name="keyTextColor">#FFFFFFFF</item>
         <item name="keyTextInactivatedColor">#FFFFFFFF</item>
         <item name="keyHintLetterColor">#80000000</item>
         <item name="keyHintLabelColor">#E0E0E4E5</item>
